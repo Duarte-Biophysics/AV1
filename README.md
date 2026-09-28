@@ -1,5 +1,5 @@
-AV1-FATEC
-
+# README
+# AV1-FATEC
 # GREENCODE
 CLI em Node.js e TypeScript para gerenciar organizações, contratos, lotes,
 equipamentos e a rastreabilidade de resíduos eletrônicos.
